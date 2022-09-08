@@ -1,61 +1,40 @@
-<p>
-<h2 style="text-align:center">Hello World!</h2>
-</p>
+<h2 align="center">Hello World!</h2>
 
 <p>
   My name is Alex Nguyen, and i'm a technology enthusiast that loves doing anything tech related. Everything ranging from Software/Web Development, Information Technology (IT), Development Operations (DevOps), and even Information Security (InfoSec).
 </p>
 
 <h3> 🛠 &nbsp;Technical Toolset</h3>
-
-<div style="display:flex">
-  <div>
-    <h5>Operating Systems</h5>
+<h5>Operating Systems</h5>
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-  </div>
 
-  <div style="margin-left:3em">
-    <h5>Languages</h5>
+<h5>Languages</h5>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-  </div>
-</div>
 
-
-<div style="display:flex">
-  <div>
-    <h5>Backend</h5>
+<h5>Backend</h5>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify.js-%23000000.svg?style=flat&logo=fastify&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-  </div>
 
-  <div style="margin-left:3em">
-    <h5>Frontend</h5>
+<h5>Frontend</h5>
 
 ![React](https://img.shields.io/badge/-React-%2320232a?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
-  </div>
-</div>
 
-<div style="display:flex">
-  <div>
-    <h5>Databases</h5>
+<h5>Databases</h5>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-  </div>
-  <div style="margin-left:3em">
-    <h5>Version Control</h5>
+
+<h5>Version Control</h5>
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white)
-  </div>
-</div>
